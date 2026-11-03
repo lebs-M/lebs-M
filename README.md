@@ -111,28 +111,6 @@ I enjoy backend logic, API design, database management and connecting services. 
 
 **Project Status:** HealthSafe – Systems Integration and HealthSafe Data Pipeline are completed. Vehicle Manufacturing and Factory Inventory are currently in development.
 
-##  GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=lebs-M&show_icons=true&hide_rank=true&bg_color=0B1D33&title_color=5ACDFF&text_color=9EB4CD&icon_color=289DFF&border_color=1B69AE"
-    height="180"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lebs-M&layout=compact&langs_count=6&bg_color=0B1D33&title_color=5ACDFF&text_color=9EB4CD&border_color=1B69AE"
-    height="180"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=lebs-M&background=0B1D33&border=1B69AE&ring=289DFF&fire=5ACDFF&currStreakLabel=5ACDFF&sideLabels=9EB4CD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9EB4CD"
-    alt="GitHub contribution streak"
-  />
-</p>
-
 ## Let's Connect
 
 - GitHub: [@lebs-M](https://github.com/lebs-M)
