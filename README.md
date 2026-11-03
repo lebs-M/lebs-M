@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="typing-header.svg" width="100%" alt="Lebogang Manamela - Backend Software Developer"/>
+  <img src="./typing-header.svg" width="100%" alt="Lebogang Manamela - Backend Software Developer"/>
 </p>
 
 ---
@@ -7,6 +7,7 @@
 ## About Me
 
 I'm a backend-focused software developer with a National Diploma in Electrical Engineering and an interest in building practical software solutions for manufacturing, industrial operations and data-driven systems.
+
 
 Currently developing my expertise in Java, Python, Spring Boot, database management and system integration.
 
