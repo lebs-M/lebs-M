@@ -52,73 +52,93 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
   <img src="https://img.shields.io/badge/Pytest-0B1F35?style=for-the-badge&logo=pytest&logoColor=38BDF8"/>
 </p>
 
+<h2>🚀 Featured Projects</h2>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+<h3>🏥 HealthSafe Data Pipeline</h3>
 
-### 🏥 HealthSafe Data Pipeline
-**Status:** Completed
+<strong>Completed</strong>
 
-A data pipeline designed for data ingestion, cleaning, validation, duplicate resolution and PostgreSQL integration.
+A data pipeline for ingestion, cleaning, validation and PostgreSQL integration.
 
-**Technologies:** Python | PostgreSQL | Docker | Pytest
+<strong>Stack:</strong> Python, PostgreSQL, Docker, Pytest
 
-[View Repository](https://github.com/lebs-M/healthsafe-data-pipeline)
+<a href="YOUR_HEALTHSAFE_REPOSITORY_URL">View Repository →</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🤖 Robot World
-**Status:** Project
+<h3>🤖 Robot World</h3>
 
-A Java client-server simulation involving robot commands, communication protocols and a graphical interface.
+<strong>Java Project</strong>
 
-**Technologies:** Java | Maven | JavaFX | JUnit
+A Java client-server robot simulation with communication protocols.
 
-[View Repository](https://github.com/lebs-M/robot-world)
+<strong>Stack:</strong> Java, Maven, JavaFX
 
----
+<a href="https://github.com/lebs-M/robot-world">View Repository →</a>
 
-### 🏭 Vehicle Manufacturing Management System
-**Status:** In Development
+</td>
+</tr>
 
-A backend-focused application exploring manufacturing management and operational workflows.
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** Java | Spring Boot
+<h3>🏭 Vehicle Manufacturing</h3>
 
-[View Repository](https://github.com/lebs-M/vehicle-manufacturing-management-system)
+<strong>In Development</strong>
 
----
+A backend-focused manufacturing management application.
 
-### 📦 Factory Inventory Backend
-**Status:** In Development
+<strong>Stack:</strong> Java, Spring Boot
 
-A backend application focused on inventory management and manufacturing operations.
+<a href="https://github.com/lebs-M/vehicle-manufacturing-management-system">View Repository →</a>
 
-**Technologies:** Java | Spring Boot | PostgreSQL
+</td>
+<td width="50%" valign="top">
 
-[View Repository](https://github.com/lebs-M/factory-inventory-backend)
+<h3>📦 Factory Inventory Backend</h3>
 
----
+<strong>In Development</strong>
 
-### 🔷 Pattern Generator
-**Status:** Project
+A backend application focused on factory inventory management.
 
-A Python CLI application that generates geometric patterns using programming fundamentals, loops and functions.
+<strong>Stack:</strong> Java, Spring Boot, PostgreSQL
 
-**Technologies:** Python
+<a href="https://github.com/lebs-M/factory-inventory-backend">View Repository →</a>
 
-[View Repository](https://github.com/lebs-M/pattern-generator)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 🏧 ATM Simulator
-**Status:** Project
+<h3>🔷 Pattern Generator</h3>
 
-A command-line banking application implementing core banking operations and application logic.
+A Python CLI application for generating geometric patterns.
 
-**Technologies:** Python
+<strong>Stack:</strong> Python
 
-[View Repository](https://github.com/lebs-M/atm-simulator)
+<a href="https://github.com/lebs-M/pattern-generator">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏧 ATM Simulator</h3>
+
+A command-line banking application implementing core banking operations.
+
+<strong>Stack:</strong> Python
+
+<a href="https://github.com/lebs-M/atm-simulator">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
 
 
 ## Let's Connect
