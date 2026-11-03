@@ -23,25 +23,35 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 - REST API development
 - System integration
 
-## Technical Skills
 
-**Languages**
-- Java
-- Python
-- SQL
+## 🛠️ Technical Skills
 
-**Frameworks & Technologies**
-- Spring Boot
-- PostgreSQL
-- Docker
-- Maven
+### Programming Languages
 
-**Tools & Testing**
-- Git & GitHub
-- JUnit 5
-- Pytest
-- IntelliJ IDEA
-- VS Code
+<p>
+  <img src="https://img.shields.io/badge/Java-0B1F35?style=for-the-badge&logo=openjdk&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Python-0B1F35?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/SQL-0B1F35?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-0B1F35?style=for-the-badge&logo=springboot&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1F35?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0B1F35?style=for-the-badge&logo=fastapi&logoColor=38BDF8"/>
+</p>
+
+### Tools & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0B1F35?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Maven-0B1F35?style=for-the-badge&logo=apachemaven&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Git-0B1F35?style=for-the-badge&logo=git&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/JUnit_5-0B1F35?style=for-the-badge&logo=junit5&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Pytest-0B1F35?style=for-the-badge&logo=pytest&logoColor=38BDF8"/>
+</p>
+
 
 ## Featured Projects
 
