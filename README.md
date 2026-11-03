@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="./lebogang_manamela_github_banner.png" width="100%" alt="Lebogang Manamela - Software Developer"/>
+</p>
+
+---
+
 <h1 align="center">Lebogang Manamela</h1>
 
 <h3 align="center">Backend Software Developer</h3>
