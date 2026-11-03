@@ -53,28 +53,73 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 </p>
 
 
-## Featured Projects
 
-### HealthSafe Data Pipeline
-A data pipeline project focused on data ingestion, cleaning, validation and PostgreSQL integration.
+## 🚀 Featured Projects
 
-**Technologies:** Python, PostgreSQL, Docker, Pytest
+### 🏥 HealthSafe Data Pipeline
+**Status:** Completed
 
-[View Repository](YOUR_HEALTHSAFE_REPOSITORY_URL)
+A data pipeline designed for data ingestion, cleaning, validation, duplicate resolution and PostgreSQL integration.
 
-### Vehicle Manufacturing Management System
-A backend-focused manufacturing management application currently in development.
+**Technologies:** Python | PostgreSQL | Docker | Pytest
 
-**Technologies:** Java, Spring Boot
+[View Repository](https://github.com/lebs-M/healthsafe-data-pipeline)
+
+---
+
+### 🤖 Robot World
+**Status:** Project
+
+A Java client-server simulation involving robot commands, communication protocols and a graphical interface.
+
+**Technologies:** Java | Maven | JavaFX | JUnit
+
+[View Repository](https://github.com/lebs-M/robot-world)
+
+---
+
+### 🏭 Vehicle Manufacturing Management System
+**Status:** In Development
+
+A backend-focused application exploring manufacturing management and operational workflows.
+
+**Technologies:** Java | Spring Boot
 
 [View Repository](https://github.com/lebs-M/vehicle-manufacturing-management-system)
 
-### Factory Inventory Backend
-A backend application focused on inventory management and manufacturing operations, currently in development.
+---
 
-**Technologies:** Java, Spring Boot, PostgreSQL
+### 📦 Factory Inventory Backend
+**Status:** In Development
+
+A backend application focused on inventory management and manufacturing operations.
+
+**Technologies:** Java | Spring Boot | PostgreSQL
 
 [View Repository](https://github.com/lebs-M/factory-inventory-backend)
+
+---
+
+### 🔷 Pattern Generator
+**Status:** Project
+
+A Python CLI application that generates geometric patterns using programming fundamentals, loops and functions.
+
+**Technologies:** Python
+
+[View Repository](https://github.com/lebs-M/pattern-generator)
+
+---
+
+### 🏧 ATM Simulator
+**Status:** Project
+
+A command-line banking application implementing core banking operations and application logic.
+
+**Technologies:** Python
+
+[View Repository](https://github.com/lebs-M/atm-simulator)
+
 
 ## Let's Connect
 
