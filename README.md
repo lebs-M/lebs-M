@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./lebogang-animated-github-header-v2.gif"
        width="100%"
-       alt="Lebogang Manamela - Backend Software Developer"/>
+       alt="  Lebogang Manamela - Backend Software Developer"/>
 </p>
 
 ---
