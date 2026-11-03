@@ -1,14 +1,5 @@
-
 <p align="center">
-  <img src="./lebogang_manamela_github_banner.png" width="100%" alt="Lebogang Manamela - Software Developer"/>
-</p>
-
----
-
-<h3 align="center">Backend Software Developer</h3>
-
-<p align="center">
-  Electrical Engineering Background | Java | Python | Backend Systems
+  <img src="typing-header.svg" width="100%" alt="Lebogang Manamela - Backend Software Developer"/>
 </p>
 
 ---
