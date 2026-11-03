@@ -52,20 +52,45 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
   <img src="https://img.shields.io/badge/Pytest-0B1F35?style=for-the-badge&logo=pytest&logoColor=38BDF8"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|:--|:--|:--|
-| [🏥 HealthSafe – Integration](https://github.com/lebs-M/sin-000-healthsafe) | Hospital management and system integration | System Integration |
-| [📊 HealthSafe Data Pipeline](https://github.com/lebs-M/healthsafe-data-pipeline) | Data ingestion, cleaning and database integration | Python, PostgreSQL, Docker |
-| [🏭 Vehicle Manufacturing](https://github.com/lebs-M/vehicle-manufacturing-management-system) | Manufacturing management application | Java, Spring Boot |
-| [📦 Factory Inventory](https://github.com/lebs-M/factory-inventory-backend) | Factory inventory management backend | Java, Spring Boot |
-| [🔗 LogisticsConnect](https://github.com/lebs-M/sin-001-logisticsconnect) | Logistics systems integration | Java, JMS, REST |
-| [🔷 Pattern Generator](https://github.com/lebs-M/pattern-generator) | Geometric pattern generation CLI | Python |
-| [🏧 ATM Simulator](https://github.com/lebs-M/atm-simulator) | Command-line banking application | Python |
-| [📚 OOP Fundamentals](https://github.com/lebs-M/oop-fundamentals) | Object-oriented programming practice | OOP |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lebs-M/sin-000-healthsafe">
+        <img src="./project-cards/healthsafe-systems-integration.png" width="100%" alt="HealthSafe Systems Integration"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/lebs-M/healthsafe-data-pipeline">
+        <img src="./project-cards/healthsafe-data-pipeline.png" width="100%" alt="HealthSafe Data Pipeline"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lebs-M/vehicle-manufacturing-management-system">
+        <img src="./project-cards/vehicle-manufacturing.png" width="100%" alt="Vehicle Manufacturing Management System"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/lebs-M/factory-inventory-backend">
+        <img src="./project-cards/factory-inventory-backend.png" width="100%" alt="Factory Inventory Backend"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Project status:** HealthSafe Data Pipeline is completed. Vehicle Manufacturing and Factory Inventory are currently in development.
+### 🔗 More Projects
+
+- [LogisticsConnect](https://github.com/lebs-M/sin-001-logisticsconnect) — Logistics systems integration
+- [Pattern Generator](https://github.com/lebs-M/pattern-generator) — Python geometric pattern generator
+- [ATM Simulator](https://github.com/lebs-M/atm-simulator) — Command-line banking application
+- [OOP Fundamentals](https://github.com/lebs-M/oop-fundamentals) — Object-oriented programming practice
+
+**Project Status:** HealthSafe – Systems Integration and HealthSafe Data Pipeline are completed. Vehicle Manufacturing and Factory Inventory are currently in development.
+
 
 ## Let's Connect
 
