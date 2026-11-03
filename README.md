@@ -8,23 +8,43 @@
 ---
 
 
-## About Me
 
-I'm a backend-focused software developer with a National Diploma in Electrical Engineering and an interest in building practical software solutions for manufacturing, industrial operations and data-driven systems.
+##  About Me
+
+<p align="center">
+  <img src="./project-cards/lebogang-about-me-avatar.png"
+       width="190"
+       alt="Illustrated avatar of a Black woman with braids"/>
+</p>
+
+<p align="center">
+  <strong>Backend Software Developer</strong><br/>
+  <sub>Electrical Engineering | Software Development | Systems Integration</sub>
+</p>
+
+I'm a Backend Software Developer with a National Diploma in Electrical Engineering and a growing focus on building reliable, practical software systems.
+
+My engineering background shaped how I approach software development: understanding how systems work, breaking down complex problems, and building solutions with real-world applications in mind.
+
+I enjoy backend logic, API design, database management and connecting services. I'm particularly interested in manufacturing systems, industrial operations and data-driven applications.
+
+### 🎯 What I'm Focused On
+
+| Area | Technologies and Interests |
+|:--|:--|
+| Backend Development | Java, Python, Spring Boot |
+| Databases | PostgreSQL, SQL, data management |
+| System Integration | REST APIs, service communication |
+| Engineering Applications | Manufacturing, inventory, operational software |
+
+---
+
+<p align="center">
+  <em>Continuously learning, building and solving practical problems through software.</em>
+</p>
 
 
-Currently developing my expertise in Java, Python, Spring Boot, database management and system integration.
-
-### Areas of Interest
-
-- Backend application development
-- Manufacturing and industrial software
-- Database engineering
-- REST API development
-- System integration
-
-
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 
@@ -91,7 +111,7 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 
 **Project Status:** HealthSafe – Systems Integration and HealthSafe Data Pipeline are completed. Vehicle Manufacturing and Factory Inventory are currently in development.
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img
