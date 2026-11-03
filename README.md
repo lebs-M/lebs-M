@@ -54,6 +54,7 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 
 
 
+
 <h2>🚀 Featured Projects</h2>
 
 <table>
@@ -158,7 +159,6 @@ Programming exercises and object-oriented development practice.
 </td>
 </tr>
 </table>
-
 
 ## Let's Connect
 
