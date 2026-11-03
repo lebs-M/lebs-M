@@ -28,7 +28,7 @@ My engineering background shaped how I approach software development: understand
 
 I enjoy backend logic, API design, database management and connecting services. I'm particularly interested in manufacturing systems, industrial operations and data-driven applications.
 
-### 🎯 What I'm Focused On
+###  What I'm Focused On
 
 | Area | Technologies and Interests |
 |:--|:--|
