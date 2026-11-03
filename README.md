@@ -1,8 +1,12 @@
+
 <p align="center">
-  <img src="./typing-header.svg" width="100%" alt="Lebogang Manamela - Backend Software Developer"/>
+  <img src="./lebogang-animated-github-header.gif"
+       width="100%"
+       alt="Lebogang Manamela - Backend Software Developer"/>
 </p>
 
 ---
+
 
 ## About Me
 
