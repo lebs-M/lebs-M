@@ -1,16 +1,78 @@
-## Hi there 👋
 
-<!--
-**lebs-M/lebs-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Lebogang Manamela</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Backend Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Electrical Engineering Background | Java | Python | Backend Systems
+</p>
+
+---
+
+## About Me
+
+I'm a backend-focused software developer with a National Diploma in Electrical Engineering and an interest in building practical software solutions for manufacturing, industrial operations and data-driven systems.
+
+Currently developing my expertise in Java, Python, Spring Boot, database management and system integration.
+
+### Areas of Interest
+
+- Backend application development
+- Manufacturing and industrial software
+- Database engineering
+- REST API development
+- System integration
+
+## Technical Skills
+
+**Languages**
+- Java
+- Python
+- SQL
+
+**Frameworks & Technologies**
+- Spring Boot
+- PostgreSQL
+- Docker
+- Maven
+
+**Tools & Testing**
+- Git & GitHub
+- JUnit 5
+- Pytest
+- IntelliJ IDEA
+- VS Code
+
+## Featured Projects
+
+### HealthSafe Data Pipeline
+A data pipeline project focused on data ingestion, cleaning, validation and PostgreSQL integration.
+
+**Technologies:** Python, PostgreSQL, Docker, Pytest
+
+[View Repository](YOUR_HEALTHSAFE_REPOSITORY_URL)
+
+### Vehicle Manufacturing Management System
+A backend-focused manufacturing management application currently in development.
+
+**Technologies:** Java, Spring Boot
+
+[View Repository](https://github.com/lebs-M/vehicle-manufacturing-management-system)
+
+### Factory Inventory Backend
+A backend application focused on inventory management and manufacturing operations, currently in development.
+
+**Technologies:** Java, Spring Boot, PostgreSQL
+
+[View Repository](https://github.com/lebs-M/factory-inventory-backend)
+
+## Let's Connect
+
+- GitHub: [@lebs-M](https://github.com/lebs-M)
+
+---
+
+<p align="center">
+  Building, learning and engineering better solutions.
+</p>
+
