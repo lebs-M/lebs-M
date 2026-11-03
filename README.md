@@ -53,125 +53,112 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 </p>
 
 
+
 <h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏥 HealthSafe – System Integration</h3>
-
+<h3>🏥 HealthSafe – Integration</h3>
 <img src="https://img.shields.io/badge/SYSTEM_INTEGRATION-2563EB?style=flat-square"/>
 
-A system integration project involving hospital ward management, emergency staffing and communication between software services.
+Hospital management and interconnected services.
 
-<strong>Focus:</strong> System Integration · APIs · Service Communication
+<strong>Stack:</strong> APIs · System Integration
 
-<a href="https://github.com/lebs-M/sin-000-healthsafe">View Repository →</a>
+<a href="https://github.com/lebs-M/sin-000-healthsafe">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📊 HealthSafe Data Pipeline</h3>
-
+<h3>📊 HealthSafe Pipeline</h3>
 <img src="https://img.shields.io/badge/COMPLETED-16A34A?style=flat-square"/>
 
-A data engineering pipeline for ingestion, cleaning, validation, duplicate resolution and PostgreSQL integration.
+Data ingestion, cleaning and database integration.
 
-<strong>Stack:</strong> Python · PostgreSQL · Docker · Pytest
+<strong>Stack:</strong> Python · PostgreSQL · Docker
 
-<a href="https://github.com/lebs-M/healthsafe-data-pipeline">View Repository →</a>
+<a href="https://github.com/lebs-M/healthsafe-data-pipeline">View Project →</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Robot World</h3>
-
-<img src="https://img.shields.io/badge/JAVA_PROJECT-2563EB?style=flat-square"/>
-
-A Java client-server robot simulation involving communication protocols and robot commands.
-
-<strong>Stack:</strong> Java · Maven · JavaFX
-
-<a href="https://github.com/lebs-M/robot-world">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏭 Vehicle Manufacturing Management</h3>
-
+<h3>🏭 Vehicle Manufacturing</h3>
 <img src="https://img.shields.io/badge/IN_DEVELOPMENT-D97706?style=flat-square"/>
 
-A backend-focused application exploring manufacturing management and operational workflows.
+Manufacturing management application.
 
 <strong>Stack:</strong> Java · Spring Boot
 
-<a href="https://github.com/lebs-M/vehicle-manufacturing-management-system">View Repository →</a>
+<a href="https://github.com/lebs-M/vehicle-manufacturing-management-system">View Project →</a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-<h3>📦 Factory Inventory Backend</h3>
-
+<h3>📦 Factory Inventory</h3>
 <img src="https://img.shields.io/badge/IN_DEVELOPMENT-D97706?style=flat-square"/>
 
-A backend application focused on factory inventory management.
+Backend inventory management application.
 
 <strong>Stack:</strong> Java · Spring Boot · PostgreSQL
 
-<a href="https://github.com/lebs-M/factory-inventory-backend">View Repository →</a>
+<a href="https://github.com/lebs-M/factory-inventory-backend">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔗 LogisticsConnect</h3>
+
+JMS-based system integration and REST API development.
+
+<strong>Stack:</strong> Java · JMS · REST APIs
+
+<a href="https://github.com/lebs-M/sin-001-logisticsconnect">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🔷 Pattern Generator</h3>
 
-<img src="https://img.shields.io/badge/PYTHON_PROJECT-2563EB?style=flat-square"/>
-
-A Python CLI application for generating geometric patterns.
+Python CLI application for geometric pattern generation.
 
 <strong>Stack:</strong> Python
 
-<a href="https://github.com/lebs-M/pattern-generator">View Repository →</a>
+<a href="https://github.com/lebs-M/pattern-generator">View Project →</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <h3>🏧 ATM Simulator</h3>
 
-<img src="https://img.shields.io/badge/PYTHON_PROJECT-2563EB?style=flat-square"/>
+Command-line banking application with transaction functionality.
 
-A command-line banking application implementing core banking operations.
+<strong>Stack:</strong> Python · JSON
 
-<strong>Stack:</strong> Python
-
-<a href="https://github.com/lebs-M/atm-simulator">View Repository →</a>
+<a href="https://github.com/lebs-M/atm-simulator">View Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>📚 OOP Fundamentals</h3>
 
-<img src="https://img.shields.io/badge/LEARNING_PROJECT-2563EB?style=flat-square"/>
+Programming exercises and object-oriented development practice.
 
-A repository for practising object-oriented programming concepts and sharing programming fundamentals.
+<strong>Stack:</strong> Java · OOP
 
-<strong>Focus:</strong> OOP · Programming Fundamentals
-
-<a href="https://github.com/lebs-M/oop-fundamentals">View Repository →</a>
+<a href="https://github.com/lebs-M/oop-fundamentals">View Project →</a>
 
 </td>
 </tr>
 </table>
+
 
 ## Let's Connect
 
