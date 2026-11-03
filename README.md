@@ -53,7 +53,7 @@ Currently developing my expertise in Java, Python, Spring Boot, database managem
 </p>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
